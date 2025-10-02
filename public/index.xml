@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Библиотека конспектов из 100б</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Библиотека конспектов из 100б</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>All lessons</title>
+    <link>https://quartz.jzhao.xyz/Math-10-class/All-lessons</link>
+    <guid>https://quartz.jzhao.xyz/Math-10-class/All-lessons</guid>
+    <description><![CDATA[ Список всех доступных конспектов УрокТемаТема конспектаСсылка на урокLesson 2Урок №02. Задание №1. Простейшая планиметрияТЕОРИЯ. ]]></description>
+    <pubDate>Thu, 02 Oct 2025 17:30:55 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://quartz.jzhao.xyz/README</link>
+    <guid>https://quartz.jzhao.xyz/README</guid>
+    <description><![CDATA[ 100points_materials_library Библиотека конспектов из 100балльного Сюда любой может прикрепить свои конспекты All lessons. ]]></description>
+    <pubDate>Thu, 02 Oct 2025 16:40:14 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ 100points_materials_library Библиотека конспектов из 100балльного Сюда любой может прикрепить свои конспекты All lessons. ]]></description>
+    <pubDate>Thu, 02 Oct 2025 16:38:15 GMT</pubDate>
+  </item><item>
+    <title>Lesson 6</title>
+    <link>https://quartz.jzhao.xyz/Math-10-class/Lesson-6</link>
+    <guid>https://quartz.jzhao.xyz/Math-10-class/Lesson-6</guid>
+    <description><![CDATA[ Урок №06. Задание №1. Простейшая планиметрия. ]]></description>
+    <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Lesson 5</title>
+    <link>https://quartz.jzhao.xyz/Math-10-class/Lesson-5</link>
+    <guid>https://quartz.jzhao.xyz/Math-10-class/Lesson-5</guid>
+    <description><![CDATA[ Урок №05. Тригонометрические формулы ТЕОРИЯ. тригонометрические формулы . ]]></description>
+    <pubDate>Sun, 28 Sep 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Lesson 4</title>
+    <link>https://quartz.jzhao.xyz/Math-10-class/Lesson-4</link>
+    <guid>https://quartz.jzhao.xyz/Math-10-class/Lesson-4</guid>
+    <description><![CDATA[ Урок №04. Задание №1. Простейшая планиметрия ТЕОРИЯ. основы планиметрии . ]]></description>
+    <pubDate>Thu, 25 Sep 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Lesson 3</title>
+    <link>https://quartz.jzhao.xyz/Math-10-class/Lesson-3</link>
+    <guid>https://quartz.jzhao.xyz/Math-10-class/Lesson-3</guid>
+    <description><![CDATA[ Урок №03. Тригонометрические функции ТЕОРИЯ. тригонометрия . ]]></description>
+    <pubDate>Tue, 23 Sep 2025 20:00:00 GMT</pubDate>
+  </item><item>
+    <title>Lesson 2</title>
+    <link>https://quartz.jzhao.xyz/Math-10-class/Lesson-2</link>
+    <guid>https://quartz.jzhao.xyz/Math-10-class/Lesson-2</guid>
+    <description><![CDATA[ Урок №02. Задание №1. Простейшая планиметрия ТЕОРИЯ. треугольники . ]]></description>
+    <pubDate>Thu, 18 Sep 2025 20:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
